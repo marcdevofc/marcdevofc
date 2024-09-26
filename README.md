@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 # Olá, eu sou Marcos Vinicius Batista da Silva!<br><br>Sou um programador iniciante com paixão por tecnologia e aprendizado contínuo. Atualmente, estou me aventurando no mundo da programação e focando em aprender HTML, CSS e JavaScript.<br><br>## 🛠️ Tecnologias e Ferramentas<br>- Linguagens: HTML, CSS e JavaScript<br>- Frameworks: React<br>- Ferramentas: Git, GitHub, VS Code<br><br>## 🎯 Objetivos<br>Estou ansioso para aprimorar minhas habilidades em desenvolvimento web e conseguir um estagio para ganhar experiência e entrar no mercado de trabalho.<br><br>## 📫 Vamos nos conectar!<br>- www.linkedin.com/in/marcosviniciusbatistadasilva<br>- marcvb.silva@gmail.com<br>
 
 
